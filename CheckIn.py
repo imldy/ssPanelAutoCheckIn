@@ -11,7 +11,7 @@ import argparse
 import time
 import logging
 
-from tkinter import Tk
+#from tkinter import Tk
 
 logger = logging.getLogger(__name__)
 logger.setLevel(level=logging.INFO)
